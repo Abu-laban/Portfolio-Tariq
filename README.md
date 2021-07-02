@@ -218,12 +218,12 @@ https://portfolio-tariq.netlify.app/
 
 ### Time Estimate
 
-Number and name of feature: ******\*\*******\_\_\_******\*\*******
+Number and name of feature: **\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***
 
 Estimate of time needed to complete: **2 Hours\_**
 
-Start time: **3:45 PM\_**
+Start time: **11:30 PM\_**
 
-Finish time: **\_**
+Finish time: **2:30 AM\_**
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: **3 Hours\_**

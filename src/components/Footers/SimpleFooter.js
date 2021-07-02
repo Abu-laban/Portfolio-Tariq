@@ -47,13 +47,13 @@ class SimpleFooter extends React.Component {
               <Col className="text-lg-center btn-wrapper" lg="6">
                 <Button
                   className="btn-icon-only rounded-circle"
-                  color="twitter"
-                  href="https://twitter.com/creativetim"
+                  color="instagram"
+                  href="https://www.instagram.com/tariq_ziad_abulaban/"
                   id="tooltip475038074"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-twitter" />
+                    <i className="fa fa-instagram" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip475038074">
@@ -62,7 +62,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.facebook.com/Taariq.Ziad"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -75,13 +75,13 @@ class SimpleFooter extends React.Component {
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
-                  color="dribbble"
-                  href="https://dribbble.com/creativetim"
+                  color="linkedin"
+                  href="https://www.linkedin.com/in/tariq-abulaban-bb002b204/"
                   id="tooltip829810202"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-dribbble" />
+                    <i className="fa fa-linkedin" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip829810202">
@@ -90,7 +90,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/Abu-laban"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -108,51 +108,14 @@ class SimpleFooter extends React.Component {
               <Col md="6">
                 <div className=" copyright">
                   © {new Date().getFullYear()}{" "}
-                  <a
-                    href="https://www.creative-tim.com?ref=adsr-footer"
-                    target="_blank"
+                  <p
                   >
-                    Creative Tim
-                  </a>
+                    Tariq Abu-Laban
+                  </p>
                   .
                 </div>
               </Col>
-              <Col md="6">
-                <Nav className=" nav-footer justify-content-end">
-                  <NavItem>
-                    <NavLink
-                      href="https://www.creative-tim.com?ref=adsr-footer"
-                      target="_blank"
-                    >
-                      Creative Tim
-                    </NavLink>
-                  </NavItem>
-                  <NavItem>
-                    <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
-                      target="_blank"
-                    >
-                      About Us
-                    </NavLink>
-                  </NavItem>
-                  <NavItem>
-                    <NavLink
-                      href="http://blog.creative-tim.com?ref=adsr-footer"
-                      target="_blank"
-                    >
-                      Blog
-                    </NavLink>
-                  </NavItem>
-                  <NavItem>
-                    <NavLink
-                      href="https://github.com/creativetimofficial/argon-design-system-react/blob/main/LICENSE.md"
-                      target="_blank"
-                    >
-                      MIT License
-                    </NavLink>
-                  </NavItem>
-                </Nav>
-              </Col>
+
             </Row>
           </Container>
         </footer>
